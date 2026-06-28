@@ -1,0 +1,24 @@
+{
+  "PARTNERS": {
+    "uuid": "<partner_uuid>",
+    "name": "<partner_name>",
+    "logo": "<partner_logo>",
+    "description": "E2E test description here",
+    "address": "Sofia",
+    "location": "42.6977082,23.3218675",
+    "phone": "34545",
+    "contactPerson": "Ivan Ivanov",
+    "type": "Service",
+    "hidden": false,
+    "serviceTypes": [
+      {
+        "id": 308,
+        "name": "Шлайфане на глава"
+      }
+    ],
+    "subscriptionTier": {
+      "uuid": "a6dcfc95-0cf7-432b-a18e-b7b98a4b6bb0",
+      "name": "Automation Subscription Tier 65730"
+    }
+  }
+}

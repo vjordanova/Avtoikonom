@@ -1,0 +1,25 @@
+{
+  "PARTNERS": [
+    {
+      "uuid": "51f686ab-39cf-4bba-b5cb-b0e3c7e6b6c4",
+      "name": "VJ2026-06-2819005",
+      "logo": "<partner_logo>",
+      "description": "Updated test description here",
+      "address": "Sofia",
+      "location": "42.6977082,23.3218675",
+      "phone": "+35934545",
+      "contactPerson": "Ivan Ivanov",
+      "type": "carService",
+      "hidden": false,
+      "serviceTypes": [
+        {
+          "id": [
+            308
+          ],
+          "name": "Шлайфане на глава"
+        }
+      ],
+      "subscriptionTier": "a6dcfc95-0cf7-432b-a1a9-e703bb181255"
+    }
+  ]
+}
